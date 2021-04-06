@@ -1,6 +1,7 @@
-h3 {
-    font-size: 30px;
+h2 {
+    font-size: 25px;
     font-family: 'Press Start 2P', cursive;
-    text-shadow: 4px 4px 0 #364547;
+    text-shadow: 4px 4px 0 #000;
     color: #FFF;
+    text-align: inherit;
 }
