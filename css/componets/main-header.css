@@ -1,4 +1,4 @@
-.header {
+.main-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -7,7 +7,7 @@
     padding: 10px 20px;
 }
 
-.header h1 {
+.main-header h1 {
     color: #ffb037;
     font-family: 'Press Start 2P', cursive;
     font-size: 30px;
