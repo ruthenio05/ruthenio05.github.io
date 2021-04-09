@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: content-box;
     background-color: #d3d3d3;
     height: 400px;
@@ -9,17 +9,17 @@
     padding-left: 90px;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .box {
+.main-banner .box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
