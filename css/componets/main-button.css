@@ -9,6 +9,7 @@
     transition: transform 100ms linear;
     text-decoration: none;
     color: #FFF;
+    cursor: pointer;
 }
 
 .main-button:hover {
@@ -18,4 +19,8 @@
 .main-button.-full {
     width: 100%;
     font-size: 25px;
+}
+
+.main-button.-full:hover {
+    transform: scale(1.02);
 }
